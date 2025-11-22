@@ -19,4 +19,5 @@ plt.title("LoRa Chirp - Real Part")
 plt.xlabel("Samples")
 plt.ylabel("Amplitude")
 plt.grid()
+plt.savefig("chirp.png")  # Guarda la gráfica en la misma carpeta
 plt.show()
