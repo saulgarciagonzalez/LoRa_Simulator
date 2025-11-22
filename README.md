@@ -28,9 +28,9 @@ python LoRa.py
 ## Output
 
 The program will display a graph of the LoRa up-chirp real part.
-It also saves the plot as an image `chirp.png` in the same folder.
 
-![LoRa Chirp](chirp.png)
+![LoRa Chirp]<img width="1916" height="965" alt="LoRa-Chirp" src="https://github.com/user-attachments/assets/a4dfd888-656a-4e9f-bd84-9fc2b2515445" />
+
 
 ---
 
